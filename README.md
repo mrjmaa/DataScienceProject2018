@@ -13,9 +13,9 @@ Project #11: Dermatoscopic lesion detection https://docs.google.com/document/d/1
 2)Read and view the pre-rendered project
 
 ## To read the project on Your personal computer
-1)Open the "untitled project.zip" file
+1)Open the "untitled project.rar" file
 
-2)Download the "untitled project.zip" file
+2)Download the "untitled project.rar" file
 
 3)Extract the zip file on your desired destination
 
